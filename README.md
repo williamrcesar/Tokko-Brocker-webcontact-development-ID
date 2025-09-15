@@ -17,6 +17,7 @@ curl -X POST "https://www.tokkobroker.com/api/v1/webcontact/?key=YOUR_API_KEY" \
 }'
 ```
 [Official documentation](https://developers.tokkobroker.com/docs/contact)
+
 [Official playground](https://www.tokkobroker.com/api/playground#!/web_contact/web-contact_post_0)
 
 ## ENGLISH
@@ -96,7 +97,8 @@ Aunque la documentación oficial de Tokko Broker no lo mencione, puedes incluir 
 "developments": "12345"
 }
 ```
-[Documentación oficial](https://developers.tokkobroker.com/docs/contact)
+[Official documentation](https://developers.tokkobroker.com/docs/contact)
+
 [Official playground](https://www.tokkobroker.com/api/playground#!/web_contact/web-contact_post_0)
 ***
 
@@ -135,11 +137,10 @@ Apesar de a documentação oficial do Tokko Broker não citar, você pode inclui
 "developments": "12345"
 }
 ```
-[Documentação oficial](https://developers.tokkobroker.com/docs/contact)
+[Official documentation](https://developers.tokkobroker.com/docs/contact)
+
 [Official playground](https://www.tokkobroker.com/api/playground#!/web_contact/web-contact_post_0)
 
-***
 
-Se desejar adaptar para markdown puro, exemplos mínimos, ou outra formatação, só avisar!
 
 [1](https://developers.tokkobroker.com/docs/developments)

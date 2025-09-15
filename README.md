@@ -16,7 +16,8 @@ curl -X POST "https://www.tokkobroker.com/api/v1/webcontact/?key=YOUR_API_KEY" \
     "developments": "12345"
 }'
 ```
-
+[Official documentation](https://developers.tokkobroker.com/docs/contact)
+[Official playground](https://www.tokkobroker.com/api/playground#!/web_contact/web-contact_post_0)
 
 ## ENGLISH
 
@@ -55,8 +56,7 @@ Despite the official Tokko Broker documentation not mentioning it, you can inclu
 "developments": "12345"
 }
 ```
-[Official documentation](https://developers.tokkobroker.com/docs/contact)
-[Official playground](https://www.tokkobroker.com/api/playground#!/web_contact/web-contact_post_0)
+
 
 ***
 

@@ -1,5 +1,22 @@
 # Tokko-Brocker-webcontact-development-ID
 Simply add the parameter "developments" to your POST body – even if it's not in the official docs, it works!
+```
+curl -X POST "https://www.tokkobroker.com/api/v1/webcontact/?key=YOUR_API_KEY" \
+  -H "Content-Type: application/json" \
+  -d '{
+    "name": "John Doe",
+    "cellphone": "1234567890",
+    "phone": "",
+    "email": "john@example.com",
+    "work_name": "Doe Investments",
+    "text": "I\'m interested in your projects.",
+    "properties": "",
+    "tags": "[\"Type: Investor\", \"Luxury\"]",
+    "agent_mail": "agent@tokko.com",
+    "developments": "12345"
+}'
+```
+
 
 ## ENGLISH
 
@@ -112,7 +129,7 @@ Apesar de a documentação oficial do Tokko Broker não citar, você pode inclui
 "work_name": "Doe Investments",
 "text": "I'm interested in your projects.",
 "properties": "",
-"tags": "["Type: Investor ", "Luxury"]",
+"tags": "["Type: Investor", "Luxury"]",
 "agent_mail": "agent@tokko.com",
 "developments": "12345"
 }

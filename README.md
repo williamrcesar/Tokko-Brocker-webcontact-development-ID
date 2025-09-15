@@ -141,6 +141,3 @@ Apesar de a documentação oficial do Tokko Broker não citar, você pode inclui
 
 [Official playground](https://www.tokkobroker.com/api/playground#!/web_contact/web-contact_post_0)
 
-
-
-[1](https://developers.tokkobroker.com/docs/developments)
